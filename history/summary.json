@@ -3,9 +3,9 @@
     "name": "VONT",
     "url": "https://www.vontweb.com",
     "slug": "vont",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 182
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 253
   },
   {
     "name": "JOC",
@@ -13,7 +13,7 @@
     "slug": "joc",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2724
+    "time": 2291
   },
   {
     "name": "Wicked Whoopies",
@@ -21,6 +21,6 @@
     "slug": "wicked-whoopies",
     "status": "up",
     "uptime": "100.00%",
-    "time": 258
+    "time": 384
   }
 ]
