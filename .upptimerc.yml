@@ -6,6 +6,10 @@ repo: sitemonitor # Your Github repository name
 sites:
   - name: VONT
     url: https://www.vontweb.com
+  - name: JOC
+    url: https://www.jimsorganiccoffee.com/
+  - name: Wicked Whoopies
+    url: https://wickedwhoopies.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
