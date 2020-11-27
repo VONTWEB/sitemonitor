@@ -5,15 +5,15 @@
     "slug": "vont",
     "status": "up",
     "uptime": "100.00%",
-    "time": 240
+    "time": 262
   },
   {
     "name": "JOC",
     "url": "https://www.jimsorganiccoffee.com/",
     "slug": "joc",
     "status": "up",
-    "uptime": "98.98%",
-    "time": 1257
+    "uptime": "99.10%",
+    "time": 1263
   },
   {
     "name": "Wicked Whoopies",
@@ -21,6 +21,6 @@
     "slug": "wicked-whoopies",
     "status": "up",
     "uptime": "100.00%",
-    "time": 384
+    "time": 492
   }
 ]
