@@ -4,16 +4,16 @@
     "url": "https://www.vontweb.com",
     "slug": "vont",
     "status": "up",
-    "uptime": "99.81%",
-    "time": 307
+    "uptime": "99.82%",
+    "time": 303
   },
   {
     "name": "JOC",
     "url": "https://www.jimsorganiccoffee.com/",
     "slug": "joc",
     "status": "up",
-    "uptime": "99.92%",
-    "time": 481
+    "uptime": "99.93%",
+    "time": 483
   },
   {
     "name": "Wicked Whoopies",
@@ -21,14 +21,14 @@
     "slug": "wicked-whoopies",
     "status": "up",
     "uptime": "100.00%",
-    "time": 382
+    "time": 377
   },
   {
     "name": "KVCC",
     "url": "https://www.kvcc.me.edu/",
     "slug": "kvcc",
     "status": "up",
-    "uptime": "99.61%",
-    "time": 281
+    "uptime": "99.63%",
+    "time": 276
   }
 ]
