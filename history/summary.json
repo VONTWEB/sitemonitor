@@ -5,7 +5,7 @@
     "slug": "vont",
     "status": "up",
     "uptime": "99.87%",
-    "time": 295
+    "time": 297
   },
   {
     "name": "JOC",
@@ -13,7 +13,7 @@
     "slug": "joc",
     "status": "up",
     "uptime": "99.95%",
-    "time": 434
+    "time": 424
   },
   {
     "name": "Wicked Whoopies",
@@ -21,14 +21,14 @@
     "slug": "wicked-whoopies",
     "status": "up",
     "uptime": "100.00%",
-    "time": 367
+    "time": 373
   },
   {
     "name": "KVCC",
     "url": "https://www.kvcc.me.edu/",
     "slug": "kvcc",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "time": 468
   }
 ]
