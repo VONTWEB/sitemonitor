@@ -4,7 +4,7 @@
     "url": "https://www.vontweb.com",
     "slug": "vont",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "time": 291
   },
   {
@@ -12,8 +12,8 @@
     "url": "https://www.jimsorganiccoffee.com/",
     "slug": "joc",
     "status": "up",
-    "uptime": "99.92%",
-    "time": 497
+    "uptime": "99.93%",
+    "time": 492
   },
   {
     "name": "Wicked Whoopies",
@@ -29,6 +29,6 @@
     "slug": "kvcc",
     "status": "up",
     "uptime": "99.90%",
-    "time": 397
+    "time": 395
   }
 ]
