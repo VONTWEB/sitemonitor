@@ -4,7 +4,7 @@
     "url": "https://www.vontweb.com",
     "slug": "vont",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "time": 285
   },
   {
@@ -27,8 +27,8 @@
     "name": "KVCC",
     "url": "https://www.kvcc.me.edu/",
     "slug": "kvcc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "time": 377
+    "time": 373
   }
 ]
