@@ -5,7 +5,7 @@
     "slug": "vont",
     "status": "up",
     "uptime": "99.96%",
-    "time": 284
+    "time": 285
   },
   {
     "name": "JOC",
@@ -13,7 +13,7 @@
     "slug": "joc",
     "status": "up",
     "uptime": "99.94%",
-    "time": 507
+    "time": 513
   },
   {
     "name": "Wicked Whoopies",
@@ -21,7 +21,7 @@
     "slug": "wicked-whoopies",
     "status": "up",
     "uptime": "100.00%",
-    "time": 351
+    "time": 350
   },
   {
     "name": "KVCC",
@@ -29,6 +29,6 @@
     "slug": "kvcc",
     "status": "up",
     "uptime": "99.90%",
-    "time": 389
+    "time": 386
   }
 ]
