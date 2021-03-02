@@ -27,8 +27,8 @@
     "name": "KVCC",
     "url": "https://www.kvcc.me.edu/",
     "slug": "kvcc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "time": 400
+    "time": 396
   }
 ]
