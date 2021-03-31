@@ -13,15 +13,15 @@
     "slug": "joc",
     "status": "up",
     "uptime": "99.96%",
-    "time": 539
+    "time": 523
   },
   {
     "name": "Wicked Whoopies",
     "url": "https://wickedwhoopies.com",
     "slug": "wicked-whoopies",
     "status": "up",
-    "uptime": "99.82%",
-    "time": 377
+    "uptime": "100.00%",
+    "time": 380
   },
   {
     "name": "KVCC",
@@ -29,6 +29,6 @@
     "slug": "kvcc",
     "status": "up",
     "uptime": "99.90%",
-    "time": 371
+    "time": 372
   }
 ]
